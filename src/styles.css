@@ -1,14 +1,13 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
 }
-
 html,
 body {
     max-width: 100%;
-    overflow-x: hidden;
+    overflow-x: auto;
     overflow-y: auto;
-    background-color: #6adecd;
+    background-color: aqua;
 }
 
 #slideshow {
@@ -16,7 +15,6 @@ body {
     padding-top: 180px;
     height: 600px;
     width: 100%;
-    background-color: #6adecd;
     box-sizing: border-box;
 }
 
